@@ -92,7 +92,7 @@ For different domains, the bash files are all stored in the _`./script`_ directo
 
 @article{zhao2024acl,  <br />
   title={Rescue Conversations from Dead-ends: Efficient Exploration for Task-oriented Dialogue Policy Optimization},  <br />
-  author={Zhao, Yangyang and Dastani, Mehdi, and Jinchuan, Long*, and Wang, Zhenyu  and Wang, Shihan*},  <br />
+  author={Zhao, Yangyang and Dastani, Mehdi, and Jinchuan, Long, and Wang, Zhenyu  and Wang, Shihan},  <br />
   journal={Transactions of the Association for Computational Linguistics},  <br />
   year={2024}  <br />
 }  <br />
