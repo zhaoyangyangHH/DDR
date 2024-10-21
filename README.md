@@ -6,7 +6,7 @@ This document describes how to run the simulation of DDR Agent.
 
 ## DATA
 
-All the data is located in the folder _./src/deep_dialog/data_domains_, which includes the movie, restaurant, and taxi domains, following the paper 'Dialogue Environments are Different from Games: Investigating Variants of Deep Q-Networks for Dialogue Policy.' Additionally, the platform is based on the paper 'Deep Dyna-Q: Integrating Planning for Task-Completion Dialogue Policy Learning.
+All the data is located in the folder _./src/deep_dialog/data_domains_, which includes the movie, restaurant, and taxi domains, following the paper 'Dialogue Environments are Different from Games: Investigating Variants of Deep Q-Networks for Dialogue Policy.' Additionally, the platform is based on the paper 'Microsoft Dialogue Challenge: Building End-to-End Task-Completion Dialogue Systems.
 
 __Knowledge Bases__ <br />
 movie domain: movie_kb.1k.p <br />
@@ -108,10 +108,9 @@ For different domains, the bash files are all stored in the _`./script`_ directo
 }  <br />
 
 
-
-@inproceedings{Peng2018DeepDynaQ,  <br />
-  title={Deep Dyna-Q: Integrating Planning for Task-Completion Dialogue Policy Learning},  <br />
-  author={Peng, Baolin and Li, Xiujun and Gao, Jianfeng and Liu, Jingjing and Wong, Kam-Fai and Su, Shang-Yu},  <br />
-  booktitle={ACL},  <br />
-  year={2018} <br />
+@article{li2018microsoft,   <br />
+  title={Microsoft Dialogue Challenge: Building End-to-End Task-Completion Dialogue Systems},   <br />
+  author={Li, Xiujun and Panda, Sarah and Liu, Jingjing and Gao, Jianfeng},   <br />
+  journal={arXiv preprint arXiv:1807.11125},   <br />
+  year={2018}   <br />
 }  <br />
