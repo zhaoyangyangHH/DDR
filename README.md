@@ -97,20 +97,3 @@ For different domains, the bash files are all stored in the _`./script`_ directo
   year={2024}  <br />
 }  <br />
 
-
-@inproceedings{wang2019dialogue,  <br />
-  title={Dialogue environments are different from games: Investigating variants of deep q-networks for dialogue policy},  <br />
-  author={Wang, Yu-An and Chen, Yun-Nung},  <br />
-  booktitle={2019 IEEE Automatic Speech Recognition and Understanding Workshop (ASRU)},  <br />
-  pages={1070--1076},  <br />
-  year={2019},  <br />
-  organization={IEEE}  <br />
-}  <br />
-
-
-@article{li2018microsoft,   <br />
-  title={Microsoft Dialogue Challenge: Building End-to-End Task-Completion Dialogue Systems},   <br />
-  author={Li, Xiujun and Panda, Sarah and Liu, Jingjing and Gao, Jianfeng},   <br />
-  journal={arXiv preprint arXiv:1807.11125},   <br />
-  year={2018}   <br />
-}  <br />
